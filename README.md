@@ -10,7 +10,7 @@ This portfolio shares my background, skills, projects, and contact information.
 
 ## 🌐 Live Demo
 
-> [Click here to view the live site](https://Chikondi-Dula.github.io/portfolio)
+> [Click here to view the live site][(https://Chikondi-Dula.github.io/portfolio)](https://github.com/Chikondi-Dula/Chikondi_portfolio_website.git)
 
 ## 🛠 Technologies Used
 
