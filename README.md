@@ -10,13 +10,13 @@ This portfolio shares my background, skills, projects, and contact information.
 
 ## 🌐 Live Demo
 
-> [Click here to view the live site](https://yourusername.github.io/portfolio)  
+> [Click here to view the live site](https://Chikondi-Dula.github.io/portfolio)  
 *(Replace with your actual GitHub Pages link after deployment)*
 
 ## 🛠 Technologies Used
 
 - **HTML5** – Structure of the website
-- **CSS3** – Styling and layout
+- **CSS** – Styling and layout
 - *(JavaScript to be added in future for interactivity)*
 
 ## 📂 Sections Included
